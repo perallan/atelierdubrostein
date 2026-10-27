@@ -87,6 +87,19 @@ Repoet kan etter hvert inneholde:
 
 Strukturen vil utvikle seg etter hvert som prosjektet vokser.
 
+## Offentlig innhold for AI-tjenester
+
+- `llms.txt` gir en kort oversikt med bakgrunn, produktstatus og lenker til offisielle kilder.
+- `index.md` gjengir forsiden som Markdown med tekst, lenker og bildebeskrivelser.
+- `index.html` lenker til begge filene i dokumentets head.
+
+Ved endringer i forsidens innhold må `index.md` og relevant informasjon i
+`llms.txt` oppdateres samtidig, inkludert datoen for innholdsgrunnlaget.
+Hold produktstatus og fakta i samsvar med den synlige nettsiden. Kontroller etter
+publisering at `/llms.txt` og `/index.md` returnerer filinnholdet med HTTP 200,
+og at hosting/CDN ikke blokkerer ønskede roboter. Filene er et supplement for
+tjenester som bruker dem; de garanterer ikke indeksering eller omtale i AI-svar.
+
 ## Status
 
 Tidlig utviklingsfase.

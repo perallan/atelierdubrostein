@@ -1,0 +1,27 @@
+# Atelier du Brostein
+
+> Atelier du Brostein (ADB) er et norsk sykkelprosjekt i Oslo. «Fint tøy. Stygt vær.» er slagordet. Prosjektet utvikler mørkt sykkeltøy for landevei, brostein og lange dager i dårlig vær.
+
+Nettsiden er på norsk bokmål og består foreløpig av én presentasjonsside. Offisiell nettadresse er https://atelierdubrostein.no/.
+
+Prosjektet startet som en spøk. Etter de første bestillingene tas ideen videre med mørkt sykkeltøy, små detaljer og en forkjærlighet for brostein.
+
+Collection 01 er under utvikling. Første steg er prøver av trøye og bib. Bildene på nettsiden viser konseptet, og bekrefter ikke ferdige produkter eller tilgjengelighet for kjøp. Nettsiden oppgir ingen lanseringsdato, priser, størrelser, materialspesifikasjoner eller leveringsvilkår.
+
+Utviklingen fra idé til de første plaggene kan følges på den offisielle Instagram-profilen @atelierdubrostein. Dette er kanalen nettsiden henviser til for å følge prosjektet.
+
+Denne oversikten bygger på innholdet i forsiden per 27. oktober 2026. Markdown-versjonen gjengir sidens tekst, lenker og bildebeskrivelser. Ved senere endringer er den offisielle forsiden kilden til gjeldende informasjon.
+
+## Innhold
+
+- [Forsiden som Markdown](https://atelierdubrostein.no/index.md): Sidens innhold, inkludert historien, Collection 01, bilder og lenker.
+- [Offisiell forside](https://atelierdubrostein.no/): Presentasjon av Atelier du Brostein og Collection 01 som HTML.
+
+## Offisielle kanaler
+
+- [Atelier du Brostein på Instagram](https://www.instagram.com/atelierdubrostein/): Følg utviklingen fra idé til de første plaggene.
+
+## Optional
+
+- [Sitemap](https://atelierdubrostein.no/sitemap.xml): Oversikt over nettstedets sider for søkemotorer.
+- [Robots.txt](https://atelierdubrostein.no/robots.txt): Nettstedets regler og innholdssignaler for roboter.
