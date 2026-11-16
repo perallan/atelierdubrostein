@@ -2,111 +2,107 @@
 
 **Fint tøy. Stygt vær.**
 
-Atelier du Brostein, forkortet **ADB**, er et norsk sykkelprosjekt med fokus på funksjonelle sykkelklær, tydelig visuell identitet og en litt røffere tilnærming til hvordan sykling vanligvis presenteres.
+An independent Norwegian cycling project. Functional apparel, a distinct visual identity, and a particular affection for cobblestones, bad weather and long days on the bike.
 
-Dette repoet samler arbeid med ADB på ett sted – fra nettside og innhold til produktidéer, design, bilder og tekniske eksperimenter.
+[atelierdubrostein.no](https://atelierdubrostein.no/)
 
-## Om ADB
+## The idea
 
-ADB bygger på en enkel idé:
+Atelier du Brostein (ADB) started as a joke. Then it became a project.
 
-Sykkelklær kan være tekniske og gjennomarbeidede uten å se sterile ut.
+The idea is simple: cycling apparel should be functional, carefully considered and built for actual riding.
 
-Uttrykket skal være mørkt, funksjonelt og nordisk, med referanser til blant annet:
+No polished racing fantasies. No staged suffering.
 
-- brostein
-- regn
-- skitne landeveier
-- våt asfalt
-- grus
-- skog
-- mørke toner
-- klassisk sykkelkultur
-- slit, vær og lange dager på sykkelen
+**Ridden. Not staged.**
 
-Det skal se ut som klær som faktisk brukes.
+## Collection 01
 
-## Visuell retning
+Our first collection is in development, with an initial focus on:
 
-ADB skal ha et tydelig og konsekvent uttrykk:
+- Short-sleeve jersey
+- Bib shorts
+- Socks
+- Gloves
 
-- sort og mørke gråtoner
-- begrenset bruk av sterke farger
-- grove teksturer
-- våte og skitne omgivelser
-- naturlig lys
-- høy kontrast
-- dokumentarisk og uredigert følelse
-- sykler som ser raske ut
-- mennesker som ser ut som de faktisk sykler
+Fit, comfort, materials and practical details come first.
 
-Ikke blank reklameestetikk.
+The visual identity draws from dark tones, rough textures, wet asphalt, gravel and the cobbled roads of Northern Europe.
 
-Mer brostein enn boulevard.
+## Roads / 001
 
-## Produkter
+**Four Days on the Stones**
 
-Første retning er en komplett landeveiskolleksjon med blant annet:
+In November 2026, four days of riding in Belgium and Northern France became the first entry in the ADB photographic journal.
 
-- kortermet jersey
-- bib shorts
-- sokker
-- hansker
+Flanders. Oudenaarde after dark. Wallers–Arenberg. The Muur.
 
-Fokusområder inkluderer:
+Original photographs from roads actually ridden. No stock photography, no staged scenes.
 
-- god passform
-- tekniske materialer
-- pusteevne
-- lang komfort
-- slitestyrke
-- funksjonelle detaljer
-- materialvalg som tåler faktisk bruk
+[Explore ROADS / 001](https://atelierdubrostein.no/roads/)
 
-## Identitet
+## The website
 
-**Navn:** Atelier du Brostein  
-**Forkortelse:** ADB  
-**Slogan:** Fint tøy. Stygt vær.
+The website is intentionally small.
 
-ADB brukes som kortform på plagg, grafikk og digitale flater.
+No CMS. No frontend framework. No unnecessary dependencies.
 
-## Dette repoet
+Just carefully written HTML, modern CSS and a minimal amount of JavaScript where it adds value.
 
-Repoet kan etter hvert inneholde:
+The site uses native browser capabilities, including:
 
-- nettside
-- komponenter
-- designfiler
-- innhold
-- produktspesifikasjoner
-- bildekonsepter
-- kampanjemateriell
-- dokumentasjon
-- eksperimenter
+- Cross-document View Transitions
+- CSS scroll-driven animations
+- Responsive editorial layouts
+- Progressive enhancement
+- Reduced-motion support
+- Semantic HTML and accessible navigation
 
-Strukturen vil utvikle seg etter hvert som prosjektet vokser.
+The goal is not to demonstrate technology for its own sake. Good frontend engineering should make the experience better without drawing attention to itself.
 
-## Offentlig innhold for AI-tjenester
+## Structure
 
-- `llms.txt` gir en kort oversikt med bakgrunn, produktstatus og lenker til offisielle kilder.
-- `index.md` gjengir forsiden som Markdown med tekst, lenker og bildebeskrivelser.
-- `index.html` lenker til begge filene i dokumentets head.
+```text
+/
+├── index.html
+├── index.md
+├── roads/
+│   ├── index.html
+│   └── index.md
+├── images/
+├── llms.txt
+└── sitemap.xml
+```
 
-Ved endringer i forsidens innhold må `index.md` og relevant informasjon i
-`llms.txt` oppdateres samtidig, inkludert datoen for innholdsgrunnlaget.
-Hold produktstatus og fakta i samsvar med den synlige nettsiden. Kontroller etter
-publisering at `/llms.txt` og `/index.md` returnerer filinnholdet med HTTP 200,
-og at hosting/CDN ikke blokkerer ønskede roboter. Filene er et supplement for
-tjenester som bruker dem; de garanterer ikke indeksering eller omtale i AI-svar.
+The structure above shows the main public content files. Additional assets and configuration files are omitted.
 
-## Status
+## Discoverability
 
-Tidlig utviklingsfase.
+The site includes:
 
-Identitet, produktretning og visuelt uttrykk er under utvikling.
+- Page-specific metadata and canonical URLs
+- Open Graph and social sharing metadata
+- JSON-LD structured data
+- Google Analytics 4
+- Google Search Console verification
+- Cloudflare integration
+- Markdown counterparts of public HTML pages
+- `llms.txt` for an overview of official content
 
----
+HTML and Markdown versions should remain consistent when published content changes.
 
-**ATELIER DU BROSTEIN**  
-Fint tøy. Stygt vær.
+The Markdown files and `llms.txt` are additional discovery resources, not guarantees of indexing or inclusion in AI-generated answers.
+
+## Principles
+
+Keep it small.
+
+Use native web technologies.
+
+Make every image, animation and line of copy earn its place.
+
+Document real experiences.
+
+**Fint tøy. Stygt vær.**
+
+© 2026 Atelier du Brostein
