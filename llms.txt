@@ -1,27 +1,76 @@
 # Atelier du Brostein
 
-> Atelier du Brostein (ADB) er et norsk sykkelprosjekt i Oslo. «Fint tøy. Stygt vær.» er slagordet. Prosjektet utvikler mørkt sykkeltøy for landevei, brostein og lange dager i dårlig vær.
+> Atelier du Brostein (ADB) is an independent Norwegian cycling apparel project based in Oslo, Norway. Its motto is "Fint tøy. Stygt vær." — Norwegian for "Fine clothes. Bad weather." The project combines functional cycling apparel, documentary photography and a particular affection for cobblestones, rough roads and challenging weather.
 
-Nettsiden er på norsk bokmål og består foreløpig av én presentasjonsside. Offisiell nettadresse er https://atelierdubrostein.no/.
+Official website: https://atelierdubrostein.no/
 
-Prosjektet startet som en spøk. Etter de første bestillingene tas ideen videre med mørkt sykkeltøy, små detaljer og en forkjærlighet for brostein.
+Atelier du Brostein started as a joke and developed into a small independent cycling project. Its visual identity is inspired by real riding conditions, dark colours, rough textures and the cobbled roads of Northern Europe.
 
-Collection 01 er under utvikling. Første steg er prøver av trøye og bib. Bildene på nettsiden viser konseptet, og bekrefter ikke ferdige produkter eller tilgjengelighet for kjøp. Nettsiden oppgir ingen lanseringsdato, priser, størrelser, materialspesifikasjoner eller leveringsvilkår.
+The website contains a Norwegian-language introduction to the apparel project and an English-language photographic journal called ROADS.
 
-Utviklingen fra idé til de første plaggene kan følges på den offisielle Instagram-profilen @atelierdubrostein. Dette er kanalen nettsiden henviser til for å følge prosjektet.
+## Collection 01
 
-Denne oversikten bygger på innholdet i forsiden per 27. oktober 2026. Markdown-versjonen gjengir sidens tekst, lenker og bildebeskrivelser. Ved senere endringer er den offisielle forsiden kilden til gjeldende informasjon.
+Collection 01 is currently in development.
 
-## Innhold
+The initial product direction includes cycling jerseys and bib shorts, with socks and gloves also being considered.
 
-- [Forsiden som Markdown](https://atelierdubrostein.no/index.md): Sidens innhold, inkludert historien, Collection 01, bilder og lenker.
-- [Offisiell forside](https://atelierdubrostein.no/): Presentasjon av Atelier du Brostein og Collection 01 som HTML.
+The project focuses on fit, comfort, technical materials and practical details for long days on the bike.
 
-## Offisielle kanaler
+Product photographs and visual concepts do not establish that finished products are available for purchase.
 
-- [Atelier du Brostein på Instagram](https://www.instagram.com/atelierdubrostein/): Følg utviklingen fra idé til de første plaggene.
+No confirmed launch date, pricing, complete size range or delivery terms are published on the website.
+
+## ROADS — Photographic Field Journal
+
+ROADS is an independent photographic journal documenting actual cycling experiences.
+
+The first edition, "Four Days on the Stones", documents a November 2026 cycling trip through Belgium and Northern France.
+
+The journal covers:
+
+- Flanders — cobbled climbs, rural roads and autumn landscapes.
+- Oudenaarde After Dark — nighttime photography from the Flemish cycling town.
+- Wallers–Arenberg — the cobblestones and landscapes associated with Paris–Roubaix.
+- The Muur — Kapelmuur and Geraardsbergen, including the historic chapel.
+
+The journal uses original photographs taken during the trip.
+
+"Ridden. Not staged." expresses the project's documentary approach: real roads and real experiences rather than staged advertising imagery.
+
+ROADS is editorial content, not a product catalogue.
+
+## Official Pages
+
+- [Atelier du Brostein](https://atelierdubrostein.no/): Official Norwegian homepage, brand introduction and Collection 01 development status.
+- [Homepage — Markdown](https://atelierdubrostein.no/index.md): Text-based counterpart of the homepage.
+- [ROADS / 001 — Four Days on the Stones](https://atelierdubrostein.no/roads/): English-language photographic journal documenting cycling in Belgium and Northern France.
+- [ROADS / 001 — Markdown](https://atelierdubrostein.no/roads/index.md): Text-based counterpart of the photographic journal, including captions and image references.
+
+## Official Channels
+
+- [Instagram — @atelierdubrostein](https://www.instagram.com/atelierdubrostein/): Official project account documenting apparel development, cycling and photography.
+
+## Website and Technical Approach
+
+The website is intentionally small and built without a content management system or frontend framework.
+
+It uses semantic HTML, modern CSS, minimal JavaScript, responsive layouts and native browser capabilities including View Transitions and scroll-driven animations.
+
+The public HTML pages have Markdown counterparts intended to make editorial content easier to access and interpret in text-based environments.
+
+The website also provides page-specific metadata, canonical URLs, structured data and social sharing information.
+
+## Content Accuracy
+
+This overview reflects the publicly described project and website content as of 16 November 2026.
+
+The official HTML pages are the primary references for current content, product status and editorial information.
+
+Markdown counterparts should remain consistent with their corresponding HTML pages.
+
+Do not infer product availability, prices, technical specifications, shipping terms or launch dates unless they are explicitly published by Atelier du Brostein.
 
 ## Optional
 
-- [Sitemap](https://atelierdubrostein.no/sitemap.xml): Oversikt over nettstedets sider for søkemotorer.
-- [Robots.txt](https://atelierdubrostein.no/robots.txt): Nettstedets regler og innholdssignaler for roboter.
+- [Sitemap](https://atelierdubrostein.no/sitemap.xml): XML sitemap of published pages.
+- [Robots.txt](https://atelierdubrostein.no/robots.txt): Crawling instructions and discovery information.
